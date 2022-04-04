@@ -11,6 +11,7 @@ body {
   background-image: url("hero-bg.jpg");
   background-repeat: no-repeat;
   background-position: top center;
+   text-align: center;
 }
 
 .container {
@@ -41,12 +42,12 @@ body {
 
 .header-email {
   padding-left: 60px;
-  background-image: url("img/icon-email-header.svg");
+  background-image: url("icon-email-header.svg");
 }
 
 .header-phone {
   padding-left: 30px;
-  background-image: url("img/icon-phone-header.svg");
+  background-image: url("icon-phone-header.svg");
 }
 
 .hero-image {
@@ -114,11 +115,11 @@ body {
 }
 
 .skill-html {
-  background-image: url("img/icon-html.svg");
+  background-image: url("icon-html.svg");
 }
 
 .skill-css {
-  background-image: url("img/icon-css.svg");
+  background-image: url("icon-css.svg");
 }
 
 .level {
@@ -188,5 +189,5 @@ body {
 
 .footer-email {
   padding-left: 30px;
-  background-image: url("img/icon-email-footer.svg");
+  background-image: url("icon-email-footer.svg");
 }
